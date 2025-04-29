@@ -221,6 +221,12 @@ The frontend is a multi-page Streamlit application with a clean, user-friendly i
 - **User Authentication:** Add login functionality via Streamlit or Firebase.
 
 ---
+# Team Members
+
+- Muhammad Hanzla
+- Amina Razzaq
+- Habiba Sajid
+- Ayesha Saleem
 
 ## Contributing
 
