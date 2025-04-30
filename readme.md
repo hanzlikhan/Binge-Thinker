@@ -174,7 +174,9 @@ The frontend is a multi-page Streamlit application with a clean, user-friendly i
 
 4. **Run Locally:**
    ```bash
+   
    streamlit run app.py
+   
    ```
    Access at [http://localhost:8501](http://localhost:8501).
 
