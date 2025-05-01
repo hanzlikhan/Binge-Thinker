@@ -1,0 +1,53 @@
+[
+    {
+      "id": "SHIP-PK001",
+      "route": "Karachi → Lahore",
+      "notes": "Container held at Port Qasim due to customs strike and inspection backlog. Expected delay: 48 hours."
+    },
+    {
+      "id": "SHIP-PK002",
+      "route": "Islamabad → Faisalabad",
+      "notes": "Rain-triggered landslides in Kallar Kahar causing detour of shipments to GT Road. Highway closed."
+    },
+    {
+      "id": "SHIP-PK003",
+      "route": "Sialkot → Karachi",
+      "notes": "Severe fog in Multan region affecting visibility and causing overnight halts in freight movement."
+    },
+    {
+      "id": "SHIP-PK004",
+      "route": "Lahore → Peshawar",
+      "notes": "Political protests in Gujranwala blocking main transport arteries. Potential for 1-day delay."
+    },
+    {
+      "id": "SHIP-PK005",
+      "route": "Gwadar → Hyderabad",
+      "notes": "Tropical cyclone alert along Makran Coast. Port activity suspended. Marine cargo rerouting required."
+    },
+    {
+      "id": "SHIP-PK006",
+      "route": "Quetta → Karachi",
+      "notes": "Security incident on N-25 highway delaying vehicles from Balochistan. Convoy movement advised."
+    },
+    {
+      "id": "SHIP-PK007",
+      "route": "Larkana → Islamabad",
+      "notes": "Supply chain stall due to diesel shortage and fuel hoarding. Local fleets affected."
+    },
+    {
+      "id": "SHIP-PK008",
+      "route": "Multan → Lahore",
+      "notes": "Freight misrouting due to GPS signal interference near Khanewal. Recovery initiated manually."
+    },
+    {
+      "id": "SHIP-PK009",
+      "route": "Rawalpindi → Sukkur",
+      "notes": "Eid holiday traffic surge and closures. Logistic hubs running minimal staff and limited service."
+    },
+    {
+      "id": "SHIP-PK010",
+      "route": "Gilgit → Islamabad",
+      "notes": "Snowfall in Skardu region triggering road blockage and flight cancellations. Emergency reroute pending."
+    }
+  ]
+  
