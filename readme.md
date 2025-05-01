@@ -117,6 +117,7 @@ pip install -r requirements.txt
        SLACK_WEBHOOK_URL = "https://hooks.slack.com/..."
        GNEWS_API_KEY = "your-gnews-key"
        WEATHER_API_KEY = "your-weather-key"
-```
+  ```
 
-
+  ### Meet Team Members:
+  
