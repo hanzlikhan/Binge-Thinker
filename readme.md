@@ -70,7 +70,7 @@ SupplyShield is a full-stack AI dashboard for **live shipment tracking, risk man
 - 🧩 LangChain + LangGraph for decision logic
 - 📊 Streamlit + Plotly for charts + UI
 - 🌦️ OpenWeatherMap for weather alerts
-- 📰 GNews API for real-time headlines
+- 📰 News API for real-time headlines
 - 💬 Slack Webhooks for stakeholder comms
 - 📦 ChromaDB or JSON for memory
 - 📄 PDF Reports via ReportLab
