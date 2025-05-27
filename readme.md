@@ -1,4 +1,4 @@
-# 🚚 SupplyShield 2.0 – Smart Shipment Risk & AI Dashboard
+# 🚚 SupplyShield 2.0 – Smart Shipment Risk and AI Dashboard
 
 > **AI-powered logistics guardian** that prevents delays, predicts disruptions, and recommends smart decisions in real time.
 
