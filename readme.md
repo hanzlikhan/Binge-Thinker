@@ -17,7 +17,7 @@
 
 | Problem | Impact |
 |--------|--------|
-| ❌ Delay due to weather or strikes | Missed deliveries, huge penalties |
+| ❌ Delay due to weather or strikes | Missed deliveries, huge_penalties |
 | ❌ No centralized risk summarizer | Teams lose time decoding reports |
 | ❌ Manual decision making | Slower, inconsistent responses |
 | ❌ Lack of automation | Poor communication and lost revenue |
