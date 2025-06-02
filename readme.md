@@ -8,7 +8,7 @@
 
 ---
 
-## 🧩 Real-World Problem
+## 🧩 Real World Problem
 
 > In global supply chains, even a **single day of port disruption** can cause millions in losses.  
 > Most logistics systems lack **real time intelligence, summaries, and predictive cost logic.**
