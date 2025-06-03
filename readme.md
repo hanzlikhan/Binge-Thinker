@@ -1,6 +1,6 @@
 # 🚚 SupplyShield 2.0 – Smart Shipment Risk and AI Dashboard
 
-> **AI-powered logistics guardian** that prevents delays, predicts disruptions, and recommends smart decisions in real time.
+> **AI powered logistics guardian** that prevents delays, predicts disruptions, and recommends smart decisions in real time.
 
 ![Streamlit](https://img.shields.io/badge/built%20with-Streamlit-orange?logo=streamlit)
 ![LangChain](https://img.shields.io/badge/langchain-enabled-blueviolet?logo=python)
